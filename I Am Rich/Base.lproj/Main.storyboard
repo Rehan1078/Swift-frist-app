@@ -35,8 +35,8 @@
                                     <action selector="Buttonpressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="HUD-hE-APr"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="I AM RICH" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="m33-3N-h7N">
-                                <rect key="frame" x="100" y="174" width="192" height="48"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="I AM RICH VICTOR" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="m33-3N-h7N">
+                                <rect key="frame" x="21" y="174" width="350" height="48"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" name="AccentColor"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="40"/>
@@ -59,7 +59,7 @@
     <resources>
         <image name="diamond" width="257.33334350585938" height="188.33332824707031"/>
         <namedColor name="AccentColor">
-            <color red="0.16844001410000001" green="0.59797143939999997" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+            <color red="0.1679999977350235" green="0.59799998998641968" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
         </namedColor>
         <systemColor name="tableBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
