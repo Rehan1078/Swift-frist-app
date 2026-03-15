@@ -49,7 +49,6 @@
                     </view>
                     <connections>
                         <outlet property="image1" destination="zy3-c5-BSl" id="EWq-Fo-xD6"/>
-                        <outlet property="lbltext" destination="m33-3N-h7N" id="BYC-bD-rRw"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
