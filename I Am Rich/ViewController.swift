@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    @IBOutlet weak var lbltext: UILabel!
     @IBOutlet weak var image1: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -17,6 +18,9 @@ class ViewController: UIViewController {
 
     @IBAction func Buttonpressed(_ sender: Any) {
         image1.image = UIImage(named: "download (1)")
+        let size = lbltext.font.pointSize
+        
+        lbltext.font = UIFont.systemFont(ofSize: size - 1)
     }
     
 
